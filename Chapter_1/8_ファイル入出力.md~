@@ -277,11 +277,7 @@ IDLEのように結果表示画面とエディタの画面が別々ではなか�
 [PyDev](http://pydev.org/)
 
 もうひとつエアーインパクトレンチとエアーインパクトドライバーくらいのパワーのあるIDEを紹介いたします。  
-こちらはEclipseというオープンソースのIDEにPyDevというPython開発のためのプラグイン（アドオンと書いたほうがしっくり来る方もいるかもしれませんね）を入れたものです。
-  
-Eclipse自身が強力なIDEのため、これをベースとしてWebサイト・アプリの開発に特化した[Aptana | Studio](http://www.aptana.com/products/studio3)やAdobe Flashの開発に特化した[FDT](http://fdt.powerflasher.com/)などがあります。
-
-こちらは日本語化が容易なので「PyCharmは英語なのか……」と悩んでいる方はこちらも検討するといいかもしれません。
+こちらはEclipseというオープンソースのIDEにPyDevというPython開発のためのプラグイン（アドオンと書いたほうがしっくり来る方もいるかもしれませんね）
 
 #### Vim
 [Vim - Wikipedia](http://ja.wikipedia.org/wiki/Vim)
